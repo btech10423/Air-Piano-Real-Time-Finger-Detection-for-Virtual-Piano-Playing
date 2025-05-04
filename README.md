@@ -5,6 +5,9 @@
 ## Fomo object detection model development on edge impluse link - 
 https://studio.edgeimpulse.com/public/683639/live
 
+## Project demonstration youtube link -
+https://youtu.be/-nB3dS6YtFM
+
 Instead of playing a heavy, expensive instrument like a piano, you can wave your hands in the air to create sounds!
 Leveraging the Nicla Vision board, we built a system to detect finger movements and turn them into music.
 we developed a FOMO-based model to detect these gestures in real time, achieving a validation F1 score of 78.1%. To suit the Nicla Vision’s limited resources, the model was optimized and compressed into a lightweight 56 KB trained.tflite file.
