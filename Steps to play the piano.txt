@@ -1,0 +1,8 @@
+Steps to play the piano
+
+1. connect the nicla vison to laptop using USB.
+2. upload the model(main.py + trained.tflite + labels) to nicla vision drive.
+3. reconnect the nicla vision to laptop using USB.
+4. Run the play_piano.py file in terminal in the same folder where all the piano audio keys are.
+5. Show your fist in front of the nicla vision camera to activate the piano
+6. move your fingers and play the piano
